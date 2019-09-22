@@ -1,0 +1,14 @@
+{
+  "tests": {
+    "Livevol": {
+      "url": "https://www.livevol.com",
+      "expected": "livevol",
+      "frequency": "60"
+    },
+    "Datashop": {
+      "url": "https://datashop.cboe.com",
+      "expected": "datashop",
+      "frequency": "60"
+    }  
+  }
+}

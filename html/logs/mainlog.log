@@ -1,0 +1,103 @@
+22/09/2019 05:47:50.928 - [INFO] - Datashop Response code: 200
+22/09/2019 05:48:40.417 - [INFO] - Testing: Datashop
+22/09/2019 05:48:40.417 - [INFO] - Testing: Livevol
+22/09/2019 05:48:40.417 - [INFO] - Connecting to: https://datashop.cboe.com
+22/09/2019 05:48:40.418 - [INFO] - Connecting to: https://www.livevol.com
+22/09/2019 05:48:41.372 - [INFO] - Livevol Response code: 200
+22/09/2019 05:48:41.413 - [INFO] - Datashop Response code: 200
+22/09/2019 05:49:40.402 - [INFO] - Testing: Livevol
+22/09/2019 05:49:40.403 - [INFO] - Testing: Datashop
+22/09/2019 05:49:40.403 - [INFO] - Connecting to: https://www.livevol.com
+22/09/2019 05:49:40.403 - [INFO] - Connecting to: https://datashop.cboe.com
+22/09/2019 05:49:40.782 - [INFO] - Datashop Response code: 200
+22/09/2019 05:49:41.481 - [INFO] - Livevol Response code: 200
+22/09/2019 05:50:40.402 - [INFO] - Testing: Livevol
+22/09/2019 05:50:40.403 - [INFO] - Testing: Datashop
+22/09/2019 05:50:40.403 - [INFO] - Connecting to: https://www.livevol.com
+22/09/2019 05:50:40.404 - [INFO] - Connecting to: https://datashop.cboe.com
+22/09/2019 05:50:40.693 - [INFO] - Livevol Response code: 200
+22/09/2019 05:50:40.717 - [INFO] - Datashop Response code: 200
+22/09/2019 05:51:40.402 - [INFO] - Testing: Livevol
+22/09/2019 05:51:40.402 - [INFO] - Connecting to: https://www.livevol.com
+22/09/2019 05:51:40.402 - [INFO] - Testing: Datashop
+22/09/2019 05:51:40.403 - [INFO] - Connecting to: https://datashop.cboe.com
+22/09/2019 05:51:40.739 - [INFO] - Livevol Response code: 200
+22/09/2019 05:51:40.799 - [INFO] - Datashop Response code: 200
+22/09/2019 05:52:40.402 - [INFO] - Testing: Livevol
+22/09/2019 05:52:40.403 - [INFO] - Testing: Datashop
+22/09/2019 05:52:40.403 - [INFO] - Connecting to: https://www.livevol.com
+22/09/2019 05:52:40.403 - [INFO] - Connecting to: https://datashop.cboe.com
+22/09/2019 05:52:40.821 - [INFO] - Datashop Response code: 200
+22/09/2019 05:52:41.523 - [INFO] - Livevol Response code: 200
+22/09/2019 05:53:40.402 - [INFO] - Testing: Livevol
+22/09/2019 05:53:40.402 - [INFO] - Testing: Datashop
+22/09/2019 05:53:40.402 - [INFO] - Connecting to: https://www.livevol.com
+22/09/2019 05:53:40.403 - [INFO] - Connecting to: https://datashop.cboe.com
+22/09/2019 05:53:40.844 - [INFO] - Datashop Response code: 200
+22/09/2019 05:53:41.577 - [INFO] - Livevol Response code: 200
+22/09/2019 05:54:40.401 - [INFO] - Testing: Livevol
+22/09/2019 05:54:40.402 - [INFO] - Connecting to: https://www.livevol.com
+22/09/2019 05:54:40.405 - [INFO] - Testing: Datashop
+22/09/2019 05:54:40.406 - [INFO] - Connecting to: https://datashop.cboe.com
+22/09/2019 05:54:40.877 - [INFO] - Datashop Response code: 200
+22/09/2019 05:54:42.343 - [INFO] - Livevol Response code: 200
+22/09/2019 05:55:40.402 - [INFO] - Testing: Livevol
+22/09/2019 05:55:40.403 - [INFO] - Connecting to: https://www.livevol.com
+22/09/2019 05:55:40.404 - [INFO] - Testing: Datashop
+22/09/2019 05:55:40.404 - [INFO] - Connecting to: https://datashop.cboe.com
+22/09/2019 05:55:40.828 - [INFO] - Datashop Response code: 200
+22/09/2019 05:55:42.274 - [INFO] - Livevol Response code: 200
+22/09/2019 05:56:40.402 - [INFO] - Testing: Livevol
+22/09/2019 05:56:40.403 - [INFO] - Testing: Datashop
+22/09/2019 05:56:40.403 - [INFO] - Connecting to: https://www.livevol.com
+22/09/2019 05:56:40.403 - [INFO] - Connecting to: https://datashop.cboe.com
+22/09/2019 05:56:40.780 - [INFO] - Livevol Response code: 200
+22/09/2019 05:56:40.853 - [INFO] - Datashop Response code: 200
+22/09/2019 05:57:40.402 - [INFO] - Testing: Livevol
+22/09/2019 05:57:40.403 - [INFO] - Testing: Datashop
+22/09/2019 05:57:40.403 - [INFO] - Connecting to: https://www.livevol.com
+22/09/2019 05:57:40.403 - [INFO] - Connecting to: https://datashop.cboe.com
+22/09/2019 05:57:40.752 - [INFO] - Datashop Response code: 200
+22/09/2019 05:57:41.491 - [INFO] - Livevol Response code: 200
+22/09/2019 05:58:25.744 - [INFO] - Testing: Livevol
+22/09/2019 05:58:25.744 - [INFO] - Testing: Datashop
+22/09/2019 05:58:25.745 - [INFO] - Connecting to: https://datashop.cboe.com
+22/09/2019 05:58:25.745 - [INFO] - Connecting to: https://www.livevol.com
+22/09/2019 05:58:26.627 - [INFO] - Livevol Response code: 200
+22/09/2019 05:58:27.226 - [INFO] - Datashop Response code: 200
+22/09/2019 05:59:25.731 - [INFO] - Testing: Livevol
+22/09/2019 05:59:25.732 - [INFO] - Connecting to: https://www.livevol.com
+22/09/2019 05:59:25.735 - [INFO] - Testing: Datashop
+22/09/2019 05:59:25.735 - [INFO] - Connecting to: https://datashop.cboe.com
+22/09/2019 05:59:26.093 - [INFO] - Livevol Response code: 200
+22/09/2019 05:59:26.120 - [INFO] - Datashop Response code: 200
+22/09/2019 05:59:42.088 - [INFO] - Testing: Livevol
+22/09/2019 05:59:42.088 - [INFO] - Testing: Datashop
+22/09/2019 05:59:42.088 - [INFO] - Connecting to: https://www.livevol.com
+22/09/2019 05:59:42.090 - [INFO] - Connecting to: https://datashop.cboe.com
+22/09/2019 05:59:42.751 - [INFO] - Livevol Response code: 200
+22/09/2019 05:59:43.164 - [INFO] - Datashop Response code: 200
+22/09/2019 06:00:42.076 - [INFO] - Testing: Livevol
+22/09/2019 06:00:42.076 - [INFO] - Connecting to: https://www.livevol.com
+22/09/2019 06:00:42.079 - [INFO] - Testing: Datashop
+22/09/2019 06:00:42.080 - [INFO] - Connecting to: https://datashop.cboe.com
+22/09/2019 06:00:42.444 - [INFO] - Datashop Response code: 200
+22/09/2019 06:00:42.454 - [INFO] - Livevol Response code: 200
+22/09/2019 06:01:42.076 - [INFO] - Testing: Livevol
+22/09/2019 06:01:42.077 - [INFO] - Connecting to: https://www.livevol.com
+22/09/2019 06:01:42.077 - [INFO] - Testing: Datashop
+22/09/2019 06:01:42.078 - [INFO] - Connecting to: https://datashop.cboe.com
+22/09/2019 06:01:42.356 - [INFO] - Livevol Response code: 200
+22/09/2019 06:01:43.605 - [INFO] - Datashop Response code: 200
+22/09/2019 06:02:51.602 - [INFO] - Testing: Datashop
+22/09/2019 06:02:51.602 - [INFO] - Testing: Livevol
+22/09/2019 06:02:51.604 - [INFO] - Connecting to: https://datashop.cboe.com
+22/09/2019 06:02:51.606 - [INFO] - Connecting to: https://www.livevol.com
+22/09/2019 06:02:52.715 - [INFO] - Datashop Response code: 200
+22/09/2019 06:02:53.014 - [INFO] - Livevol Response code: 200
+22/09/2019 06:03:51.589 - [INFO] - Testing: Livevol
+22/09/2019 06:03:51.589 - [INFO] - Connecting to: https://www.livevol.com
+22/09/2019 06:03:51.592 - [INFO] - Testing: Datashop
+22/09/2019 06:03:51.593 - [INFO] - Connecting to: https://datashop.cboe.com
+22/09/2019 06:03:51.915 - [INFO] - Livevol Response code: 200
+22/09/2019 06:03:51.992 - [INFO] - Datashop Response code: 200

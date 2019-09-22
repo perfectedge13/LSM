@@ -1,0 +1,63 @@
+<html>
+<head>
+<title>Livevol Status Monitor</title>
+<link rel="shortcut icon" href="img/favicon.jpeg" />
+<meta http-equiv="refresh" content="15">
+<script src="js/main.js"></script>
+<script>
+init();
+</script>
+<style>
+@font-face {
+  font-family: infected;
+  src: url(fonts/INFECTED.ttf);
+}
+
+@font-face {
+  font-family: digital;
+  src: url(fonts/Digitall.ttf);
+}
+
+body {
+ background-image: url("img/background.gif"),url("img/background2.png");
+ background-color: #000000;
+ background-repeat: no-repeat;
+ background-position: right, left;
+
+}
+
+#statuswrapper {
+color: #FFFFFF;
+text-shadow: 0 0 5px #0000CD, 0 0 10px #0000CD, 0 0 15px #0000CD, 0 0 20px #FFF, 0 0 30px #FFF, 0 0 40px #FFF, 0 0 55px #FFF, 0 0 75px #FFF;
+color: #FFF;
+}
+
+#logwindow {
+  position: absolute;
+  bottom: 10px;
+  width: 50%;
+  height: 150px;
+  border: 3px solid #8AC007;
+  overflow-y: hidden;
+  overflow-x: hidden;
+}
+
+</style>
+</head>
+<body onLoad='tailf(); setInterval("tailf()", 5000)'>
+<div style="font-family: digital; font-size: 30px; text-align: center;color: white"><h1>Livevol Status Monitor</h1></div>
+<div id="statuswrapper">
+<table id="resultstable" style="border:1px solid black;margin-left:auto;margin-right:auto;color: white;text-align: left">
+  <tr>
+    <th valign="middle" style="width:550px" height="75">Site</th>
+    <th valign="middle" style="width:210px" height="75">Last Check</th>
+    <th valign="middle" style="width:40px" height="75">Status</th>
+  </tr>
+</table>
+</div>
+  <div id="logwindow" style="text-align: left;color: white">
+    <pre id="thePlace"></pre>
+    <div id="theEnd"></div>
+  </div>
+</body>
+</html>
